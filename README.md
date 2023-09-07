@@ -1,4 +1,5 @@
-![AppScreenshot](https://github.com/NaniTadala/TodoListApp-MERN/assets/92290291/6d853180-55ae-450b-ad61-42f7afe49cad)
+![AppScreenshot](https://github.com/NaniTadala/TodoListApp-MERN/assets/92290291/44d5aaf7-0630-47cc-81bd-8454c767ebf5)
+
 
 
 # MERN Stack ToDo List App
