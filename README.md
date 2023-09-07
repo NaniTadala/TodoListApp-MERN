@@ -43,7 +43,7 @@ npm install
 **3. Setup mongodb connection**
 
 ```env
-MONGODB_URI=mongodb://localhost:27017/todoApp
+MONGODB_URI="mongodb://localhost:27017/todoApp"
 ```
 
 Replace mongodb://localhost:27017/todoApp with your MongoDB URI.

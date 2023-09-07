@@ -4,13 +4,14 @@ const app = express();
 const cors = require("cors");
 const mongoose = require("mongoose");
 const PORT = 3000;
+const MONGODB_URI = "mongodb://127.0.0.1:27017/todoApp"
 
 app.use(bodyParser.json());
 app.use(cors());
 
 try {
   mongoose
-    .connect("mongodb://127.0.0.1:27017/todoApp", {
+    .connect(MONGODB_URI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
