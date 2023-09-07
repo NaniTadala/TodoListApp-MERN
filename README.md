@@ -1,3 +1,6 @@
+![AppScreenshot](https://github.com/NaniTadala/TodoListApp-MERN/assets/92290291/6d853180-55ae-450b-ad61-42f7afe49cad)
+
+
 # MERN Stack ToDo List App
 
 This is a simple ToDo list application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create, update, delete, and view their tasks.
